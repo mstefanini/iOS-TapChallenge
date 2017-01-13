@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+#pragma mark - Actions
+
+-(IBAction)buttonPressed:(id)sender;
 
 @end
 
